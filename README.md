@@ -1,5 +1,5 @@
 # Experiment Report Template
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pisceskkk/ExperimentReportTemplate/blob/main/LICENSE) ![platform: windows|Linux (shields.io)](https://img.shields.io/badge/platform-Windows|Linux|MacOS-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pisceskkk/ExperimentReportTemplate/blob/main/LICENSE) ![platform: windows|Linux|MacOS (shields.io)](https://img.shields.io/badge/platform-Windows|Linux|MacOS-brightgreen)
 
 Experiment report template of NUDT undergraduate/国防科技大学本科实验报告(模板)
 
